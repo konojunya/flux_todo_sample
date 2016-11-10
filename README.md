@@ -1,3 +1,7 @@
+# Flux + Reactを最速で体感するリポジトリ
+
+[2016年Qiita Advent Calender](http://qiita.com/advent-calendar/2016/hal)のものです。
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
